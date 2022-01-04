@@ -38,3 +38,5 @@
 *://*.issueexplorer.com/*
 *://*.tabnine.com/*
 *://*.gitcode.net/*
+*://*.farath.com/*
+*://*.coderedirect.com/*
